@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+
+    background-color: darksalmon;
+    text-align: center;
+    color :firebrick;
+    height: 100px;
+    
+}
+
+.blogSection{
+
+    overflow: hidden;
+    
+}
+
+.firstBlog{
+
+    background-color: mediumpurple;
+    width: 20%;
+    height: 500px;
+    float: left;
+    text-align: center;
+}
+
+.secondBlog{
+    background-color: pink;
+    width: 60%;
+    height: 500px;
+    float: left;
+    text-align: center;
+}
+
+.first{
+    background-color: pink;
+    height: 20%;
+}
+
+.second{
+    background-color:royalblue;
+    height: 15%;
+}
+
+.third{
+    background-color: red;
+    height: 50%;
+}
+
+.fourth{
+    background-color: royalblue;
+    height: 15%;
+
+}
+
+.thirdBlog{
+    background-color: skyblue;
+    width: 20%;
+    height: 500px;
+    float: left;
+    text-align: center;
+}
+
+
+
+
+footer{
+    background-color: crimson;
+    text-align: center;
+    height: 100px;
+    font-size : xx-large;
+}
